@@ -1,8 +1,11 @@
 .page {
   --background-color: #2A2C2F;
-  --text-color: #fff;
+  --text--white-color: #fff;
 
   max-width: 1600px;
+
   margin: 0 auto;
   background: var(--background-color);
+  color: var(--text--white-color);
+  font-family: "Inter", sans-serif;
 }
