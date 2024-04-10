@@ -1,6 +1,7 @@
 .page {
   --background-color: #2A2C2F;
   --text--white-color: #fff;
+  --text--grey-color: #AAA;
 
   max-width: 1600px;
   margin: 0 auto;

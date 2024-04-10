@@ -1,0 +1,10 @@
+.places__paragraf {
+  margin: 0;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 29.34px;
+  padding-top: 25px;
+}
+.places__paragraf:first-child {
+  padding: 0;
+}
