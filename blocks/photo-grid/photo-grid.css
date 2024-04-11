@@ -4,4 +4,13 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 16px;
+
+}
+
+@media screen and (min-width: 1024px){
+  .photo-grid {
+    grid-template-columns: repeat(3, 1fr);
+    width: 928px;
+    margin: 0 auto;
+  }
 }
