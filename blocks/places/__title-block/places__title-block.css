@@ -5,3 +5,12 @@
   align-items: flex-end;
   padding-bottom: 48px;
 }
+
+@media screen and (max-width: 320px){
+  .places__title-block {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 16px;
+
+  }
+}

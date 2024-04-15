@@ -7,3 +7,8 @@
     padding-left: 28px;
   }
 }
+@media screen and (max-width: 320px){
+  .places__description {
+    padding: 0 16px;
+  }
+}

@@ -3,3 +3,11 @@
   flex-direction: column;
   padding-top: 80px;
 }
+.places__place:first-child {
+  padding: 0;
+}
+@media screen and (max-width: 320px) {
+  .places__place {
+    padding-top: 48px;
+  }
+}
