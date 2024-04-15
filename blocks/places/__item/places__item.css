@@ -1,8 +1,8 @@
 .places__item {
   padding-top: 80px;
   display: grid;
-  grid-template-columns: auto-fit minmax(320px, 1fr);
-  gap: 32px 48px;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 48px 32px ;
 }
 .places__item:first-child {
   padding: 0;
@@ -12,6 +12,7 @@
   .places__item {
     padding: 72px 24px 0 24px;
     gap: 28px 48px;
+
   }
 }
 
