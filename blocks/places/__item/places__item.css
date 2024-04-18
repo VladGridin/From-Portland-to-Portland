@@ -7,7 +7,6 @@
 .places__item:first-child {
   padding: 0;
 }
-
 @media screen and (max-width: 768px){
   .places__item {
     padding: 72px 24px 0 24px;
@@ -15,12 +14,9 @@
 
   }
 }
-
 @media screen and (max-width: 320px){
   .places__item {
     grid-template-columns: 1fr;
     gap: 0 30px;
   }
 }
-
-/* change size title */
