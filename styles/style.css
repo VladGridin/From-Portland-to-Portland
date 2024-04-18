@@ -3,8 +3,11 @@
 /* page */
 @import url("../blocks/page/page.css");
 
-/* content */
+/* paragraf */
+@import url("../blocks/paragraf/paragraf.css");
 
+/* image */
+@import url("../blocks/image/image.css");
 
 /* logo */
 @import url("../blocks/logo/logo.css");
