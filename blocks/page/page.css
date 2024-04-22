@@ -1,5 +1,4 @@
 .page {
-
   max-width: 1600px;
   margin: 0 auto;
   background: var(--background-color);
@@ -9,4 +8,3 @@
   flex-direction: column;
   align-items: center;
 }
-

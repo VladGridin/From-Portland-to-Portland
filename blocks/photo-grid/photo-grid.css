@@ -4,7 +4,6 @@
   gap: 16px;
   margin-top: 92px;
 }
-
 @media screen and (max-width: 1280px){
   .photo-grid {
     margin: 0 48px;
